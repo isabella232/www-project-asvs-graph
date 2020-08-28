@@ -5,7 +5,7 @@ title: OWASP ASVS-Graph
 tags: asvs automation graph-theory know
 level: 1
 type: code
-pitch: OWASP Application Security Verification Standard (ASVS) is a great knowledgebase. This greatly helps organizations by providing guidance as well as in generating Application Security Metrics. With OWASP ASVS-Grah, ASVS is converted to a knowledge-graph. All the 
+pitch: OWASP Application Security Verification Standard (ASVS) is a great knowledgebase. This greatly helps organizations by providing guidance as well as in generating Application Security Metrics. With OWASP ASVS-Graph, ASVS is converted to a knowledge-graph. All the 
 
 ---
 [![Creative Commons License](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/ "CC BY-SA 4.0")
