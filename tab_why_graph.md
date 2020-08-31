@@ -2,7 +2,7 @@
 title: ASVS Graph View
 layout:  col-sidebar
 tab: true
-order: 1
+order: 2
 tags: asvs-graph verify_from_architecture
 ---
 
