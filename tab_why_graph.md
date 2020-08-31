@@ -1,6 +1,6 @@
 ---
 title: ASVS Graph View
-layout:  null
+layout:  col-sidebar
 tab: true
 order: 1
 tags: asvs-graph verify_from_architecture
