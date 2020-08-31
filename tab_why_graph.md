@@ -1,9 +1,10 @@
 ---
-title: ASVS Graph View
+title: ASVS_Graph_View
+displaytext: Why Graph
 layout:  col-sidebar
 tab: true
 order: 2
-tags: asvs-graph verify_from_architecture
+tags: asvs-graph 
 ---
 
 
