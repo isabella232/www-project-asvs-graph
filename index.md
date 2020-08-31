@@ -15,18 +15,18 @@ ASVS-Graph converts ASVS to a Knowlege-Graph. ASVS already provides guidance, me
 
 With ASVS-Graph, Practicioners can
 
-* **Automate Verification Process**
-* **Create Knowledge-Graphs - Similar to that of a search engine**
-* **Convert ASVS into a Security Recommender Engine**
-* **Make creation & managemnt of Application Security Metrics simple**
+* Automate Verification Process
+* Create Knowledge-Graphs - Similar to that of a search engine
+* Convert ASVS into a Security Recommender Engine
+* Make creation & managemnt of Application Security Metrics simple
 
 
 ## ASVS-Graph v0.0.1 - Expected features
 
-* **Automated Graph Seeding process**
-* **Knowledge Graphs - Create knowledge graphs**
-* **Convert the Knowledge Graphs to Recommender Engine**
-* **Click-to-deploy `self-serve` instructions**
+* Automated Graph Seeding process
+* Knowledge Graphs - Create knowledge graphs
+* Convert the Knowledge Graphs to Recommender Engine
+* Click-to-deploy `self-serve` instructions
 
 
 ## Related Projects
