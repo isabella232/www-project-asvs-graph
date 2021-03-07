@@ -2,3 +2,6 @@
 /Gemfile.lock
 /favicon.ico
 _site/
+.bundle
+.dccache
+vendor

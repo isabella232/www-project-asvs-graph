@@ -1,10 +1,10 @@
 ---
-title: graphview
-displaytext: Graph View
+title: Graph_View
+displaytext: Why Graph
 layout: col-sidebar
 tab: true
 order: 1
-tags: graph
+tags: asvs-graph 
 ---
 
 
@@ -63,7 +63,3 @@ tags: graph
   }
 ]
 ```
-
-
-
--------------
