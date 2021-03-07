@@ -1,7 +1,7 @@
 ---
 title: ASVS_Graph_View
 displaytext: Why Graph
-layout:  col-sidebar
+layout: null
 tab: true
 order: 2
 tags: asvs-graph 
