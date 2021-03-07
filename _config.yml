@@ -1,6 +1,3 @@
 remote_theme: "owasp/www--site-theme"
 plugins:
- - jekyll-include-cache-0.2.0
- 
- project:
-    name:       "OWASP ASVS-Graph"
+    - jekyll-include-cache-0.2.0
